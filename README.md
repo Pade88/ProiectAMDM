@@ -2,7 +2,7 @@
 @OPA: Rework started on Mar-13-2021  
 ## V: 1.0.0.0 (Blank) -> Functional  
 
-![alt text](https://imgur.com/a/eLYDi9C)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/eLYDi9C" data-context="false" ><a href="//imgur.com/a/eLYDi9C"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### @ToDo  
 -> Fetch Table from WEB using Jsoup  

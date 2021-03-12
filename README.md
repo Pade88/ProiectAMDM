@@ -6,12 +6,18 @@
 ### @ToDo  
 -> Fetch Table from WEB using Jsoup  
 -> Parse and format raw data  
--> Inject raw data in PieChart2.0 lib  
+-> Inject raw data in PieChart2.0 lib 
 
 ### @ToRefactor  
 -> UI: Add BottomNavigation  
 -> UI: Scrollable content on Charts  
 -> Chart generation
+-> ```runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        System.out.println(builder.toString());
+                    }
+                }); ```
 
 ### @ToRemove  
 -> DB Connection  

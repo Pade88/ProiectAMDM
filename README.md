@@ -11,7 +11,7 @@
 ### @ToRefactor  
 -> UI: Add BottomNavigation  
 -> UI: Scrollable content on Charts  
--> Chart generation
+-> Chart generation  
 -> ```runOnUiThread(new Runnable() {
                     @Override
                     public void run() {

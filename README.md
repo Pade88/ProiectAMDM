@@ -2,7 +2,7 @@
 @OPA: Rework started on Mar-13-2021  
 ## V: 1.0.0.0 (Blank) -> Functional  
 
-![Image of Yaktocat](https://imgur.com/a/eLYDi9C)
+![Image of Yaktocat](https://github.com/Pade88/ProiectAMDM/blob/master/SDD.PNG)
 
 ### @ToDo  
 -> Fetch Table from WEB using Jsoup  
